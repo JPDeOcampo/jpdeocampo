@@ -21,8 +21,8 @@ I am an Computer Science graduate from De La Salle Araneta University, knowledge
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/sass" width="36" height="36" alt="Sass" /></a>&nbsp;
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>&nbsp;
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/visualstudiocode/#0078d7" width="36" height="36" alt="Vs Code" /></a>&nbsp;
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/xampp" width="36" height="36" alt="Xampp" /></a>&nbsp;
-<a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/git" width="36" height="36" alt="Git" /></a>&nbsp;
+<a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/xampp" width="36" height="36" alt="Xampp" /></a>&nbsp;
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/git" width="36" height="36" alt="Git" /></a>&nbsp;
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/visualstudio" width="36" height="36" alt="Visual Studio" /></a>&nbsp;
 <a href="https://bitbucket.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/bitbucket" width="36" height="36" alt="Bitbucket" /></a>&nbsp;
 <!--
