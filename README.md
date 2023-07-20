@@ -10,15 +10,21 @@ I am an Computer Science graduate from De La Salle Araneta University, knowledge
 * 🖥️  See my portfolio at [https://jpdeocampo-portfolio.netlify.app/](https://jpdeocampo-portfolio.netlify.app/home)
 * ✉️  You can contact me at [jonathandeocampo06@gmail.com](mailto:jonathandeocampo06@gmail.com)
 
-### Skills
+### Languages and Tools
 
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/html5" width="36" height="36" alt="HTML5" /></a>&nbsp;
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/css3" width="36" height="36" alt="CSS3" /></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/javascript" width="36" height="36" alt="JavaScript" /></a>&nbsp;
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/bootstrap" width="36" height="36" alt="Bootstrap" /></a>&nbsp;
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/sass" width="36" height="36" alt="Sass" /></a>&nbsp;
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>&nbsp;
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/visualstudiocode/#0078d7" width="36" height="36" alt="Vs Code" /></a>&nbsp;
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/xampp" width="36" height="36" alt="Xampp" /></a>&nbsp;
+<a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/git" width="36" height="36" alt="Git" /></a>&nbsp;
+<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/visualstudio" width="36" height="36" alt="Visual Studio" /></a>&nbsp;
+<a href="https://bitbucket.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/bitbucket" width="36" height="36" alt="Bitbucket" /></a>&nbsp;
 <!--
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
@@ -31,8 +37,8 @@ I am an Computer Science graduate from De La Salle Araneta University, knowledge
 
 ### Socials
 
-<p align="left"> </a> <a href="https://github.com/JPDeOcampo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-<a href="https://www.linkedin.com/in/jonathandeocampo/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://www.instagram.com/jpdeocampo_17/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-<a href="https://discord.com/users/453378333015801877" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a></p>
+<p align="left"> </a> <a href="https://github.com/JPDeOcampo" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/github/black" width="32" height="32" /></a> &nbsp;
+<a href="https://www.linkedin.com/in/jonathandeocampo/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/linkedin" width="32" height="32" /></a>&nbsp;
+<a href="https://www.instagram.com/jpdeocampo_17/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/instagram" width="32" height="32" /></a>&nbsp;
+<a href="https://discord.com/users/453378333015801877" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/discord" width="32" height="32" /></a></p>&nbsp;
 
