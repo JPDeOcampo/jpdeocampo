@@ -7,7 +7,7 @@ Frontend Developer / Aspiring Entreprenuer
 I am an Computer Science graduate from De La Salle Araneta University, knowledgeable in web development/software development. I am currently working at WPH Digital Pte Ltd as a Frontend Developer since November 2022.
 
 * 🌍  I'm based in Philippines
-* 🖥️  See my portfolio at [https://jpdeocampo-portfolio.netlify.app/](https://jpdeocampo-portfolio.netlify.app/home)
+* 🖥️  See my portfolio at [https://jpdeocampo-portfolio.netlify.app/](https://jpdeocampo-portfolio.netlify.app)
 * ✉️  You can contact me at [jonathandeocampo06@gmail.com](mailto:jonathandeocampo06@gmail.com)
 
 ### Languages and Tools
