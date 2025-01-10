@@ -31,11 +31,12 @@ I am an Computer Science graduate from De La Salle Araneta University, knowledge
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/git" width="36" height="36" alt="Git" /></a>&nbsp;
 <!--<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/visualstudio" width="36" height="36" alt="Visual Studio" /></a>&nbsp;-->
 <a href="https://bitbucket.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/bitbucket" width="36" height="36" alt="Bitbucket" /></a>&nbsp;
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/typescript" width="36" height="36" alt="Typescript" /></a>&nbsp;
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>&nbsp;
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <!--
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>-->
 
 
