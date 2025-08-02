@@ -42,8 +42,8 @@ I am an Computer Science graduate from De La Salle Araneta University, knowledge
 
 ### Socials
 
-<p align="left"> </a> <a href="https://github.com/JPDeOcampo" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/github/black" width="32" height="32" /></a> &nbsp;
-<a href="https://www.linkedin.com/in/jonathandeocampo/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/linkedin" width="32" height="32" /></a>&nbsp;
-<a href="https://www.instagram.com/jpdeocampo_17/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/instagram" width="32" height="32" /></a>&nbsp;
-<a href="https://discord.com/users/453378333015801877" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/discord" width="32" height="32" /></a></p>&nbsp;
+<p align="left"> </a> <a href="https://github.com/JPDeOcampo" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/github/black" width="32" height="32" alt="github"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/jonathandeocampo/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/linkedin" width="32" height="32" alt="linkedin"/></a>&nbsp;
+<a href="https://www.instagram.com/jpdeocampo_17/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/instagram" width="32" height="32" alt="instagram"/></a>&nbsp;
+<a href="https://discord.com/users/453378333015801877" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/discord" width="32" height="32" alt="discord"/></a></p>&nbsp;
 
