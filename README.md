@@ -15,7 +15,7 @@ I am an Computer Science graduate from De La Salle Araneta University, knowledge
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/html5" width="36" height="36" alt="HTML5" /></a>&nbsp;
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/css3" width="36" height="36" alt="CSS3" /></a>&nbsp;
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/css" width="36" height="36" alt="CSS3" /></a>&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/javascript" width="36" height="36" alt="JavaScript" /></a>&nbsp;
 <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/react" width="36" height="36" alt="ReactJs" /></a>&nbsp;
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/vite" width="36" height="36" alt="Vite" /></a>&nbsp;
